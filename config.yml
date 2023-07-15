@@ -40,27 +40,21 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
+        - name: 优酷
+          description: 海量正版高清视频在线观看
+          url: https://www.youku.com/
+        - name: 爱奇艺
+          description: 海量正版高清视频在线观看
+          url: https://www.iqiyi.com/
+        - name: 腾讯视频
+          description: 海量正版高清视频在线观看
+          url: https://v.qq.com/
         - name: Pinterest
           description: 全球美图收藏采集站
           url: https://www.pinterest.com/
         - name: 花瓣
           description: 收集灵感,保存有用的素材
           url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
         - name: Producthunt
           description: 发现新鲜有趣的产品
           url: https://www.producthunt.com/
@@ -70,9 +64,6 @@ content:
         - name: Google
           description: 全球最大的UI学习分享平台
           url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
     - name: 界面灵感
       sites:
         - name: 咕噜素材
