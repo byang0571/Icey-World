@@ -5,10 +5,10 @@ title: Icey's World
 description: byang0571's navigation site
 
 # favicon of website
-favicon: "https://github.com/byang0571.png?size=40"
+favicon: "https://icey.live/favicon.png?size=40"
 
 # your website url
-url: https://byang0571.github.io/Icey-World/
+url: https://icey.live/
 
 # github profile url
 github: "https://github.com/byang0571"
@@ -29,9 +29,6 @@ webstack:
     default: baidu
     # 可选的搜索引擎
     engines:
-      - google
-      - github
-      - weibo
       - baidu
       - bilibili
       - zhihu
@@ -49,15 +46,6 @@ content:
         - name: 腾讯视频
           description: 海量正版高清视频在线观看
           url: https://v.qq.com/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
         - name: Youtube
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
@@ -78,35 +66,6 @@ content:
         - name: 电鸭社区
           description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
           url: https://eleduck.com/
-    - name: 发现产品
-      sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
-        - name: 少数派
-          description: 高品质数字消费指南
-          url: https://sspai.com/
-        - name: 利器
-          description: 创造者和他们的工具
-          url: http://liqi.io/
-        - name: Today
-          description: 为身边的新产品喝彩
-          url: http://today.itjuzi.com/
-        - name: 小众软件
-          description: 在这里发现更多有趣的应用
-          url: https://faxian.appinn.com/
-        - name: Pttrns
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-          url: https://www.pttrns.com/
-        - name: Collect UI
-          description: Daily inspiration collected from daily ui archive and beyond.
-          url: http://collectui.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
-        - name: Android Niceties
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          url: http://androidniceties.tumblr.com/
     - name: 摄影图库
       sites:
         - name: Unsplash
