@@ -81,17 +81,6 @@ content:
         - name: 简视频
           description: 一个网站搞定视频制作
           url: https://www.aewz.com/
-    - name: 界面灵感
-      sites:
-        - name: 简视频
-          description: 一个网站搞定视频制作
-          url: https://www.aewz.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
     - name: 摄影图库
       sites:
         - name: Unsplash
@@ -166,26 +155,3 @@ content:
         - name: publicdomainarchive
           description: New 100% Free Stock Photos. Every. Single. Week.
           url: http://publicdomainarchive.com/
-    - name: 在线工具
-      sites:
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
-        - name: goqr
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-          url: http://goqr.me/
-        - name: ezgif
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-          url: https://ezgif.com
-        - name: Android 9 patch
-          description: Android 9-patch shadow generator fully customizable shadows
-          url: http://inloop.github.io/shadow4android/
-        - name: screen sizes
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-          url: http://screensiz.es/
-        - name: svgomg
-          description: SVG在线压缩平台
-          url: https://jakearchibald.github.io/svgomg/
-        - name: 稿定抠图
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-          url: https://www.gaoding.com
