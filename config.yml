@@ -38,7 +38,7 @@ content:
     - name: 常用推荐
       sites:
         - name: 片库
-          description: 看视频的地方-你懂的
+          description: 看视频的地方你懂的
           url: https://pian-ku.com/
         - name: Youtube(科学上网)
           description: 全球最大的学习分享平台
