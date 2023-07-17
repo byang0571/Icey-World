@@ -37,26 +37,17 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: 优酷
-          description: 海量正版高清视频在线观看
-          url: https://www.youku.com/
-        - name: 爱奇艺
-          description: 海量正版高清视频在线观看
-          url: https://www.iqiyi.com/
-        - name: 腾讯视频
-          description: 海量正版高清视频在线观看
-          url: https://v.qq.com/
-        - name: Youtube
+        - name: 片库
+          description: 看视频的地方-你懂的
+          url: https://pian-ku.com/
+        - name: Youtube(科学上网)
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
-        - name: Google
+        - name: Google(科学上网)
           description: 全球最大的UI学习分享平台
           url: https://www.google.com/
     - name: 界面灵感
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
         - name: 设计周刊
           description: 最新设计资讯（每天更新）
           url: https://www.shejizhoukan.com/
