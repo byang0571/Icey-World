@@ -1,52 +1,34 @@
-# title of website
+---
 title: Icey's World
-
-# description of website
 description: byang0571's navigation site
-
-# favicon of website
-favicon: "https://icey.live/favicon.png?size=40"
-
-# your website url
+favicon: https://icey.live/favicon.png?size=40
 url: https://icey.live/
-
-# github profile url
-github: "https://github.com/byang0571"
-
-# footer message
+github: https://github.com/byang0571
 footer: © 2023-2023 @byang
-
-# template(theme) of your site, available:
-# 1. webstack (http://webstack.cc)
 template: webstack
-
-# Google analytics
 google_analytics: ""
-
 webstack:
   search:
     enabled: true
     default: baidu
-    # 可选的搜索引擎
     engines:
       - baidu
       - bilibili
       - zhihu
-
 content:
   categories:
     - name: 常用推荐
       sites:
         - name: 片库
-          description: 看视频的地方你懂的
+          description: 看视频的地方-你懂的
           url: https://pian-ku.com/
         - name: Youtube(科学上网)
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
         - name: Google(科学上网)
-          description: 全球最大的UI学习分享平台
+          description: 全球最大的搜索平台
           url: https://www.google.com/
-     - name: 在线工具
+    - name: 在线工具
       sites:
         - name: 纪妖
           description: 收集中国古今妖怪
@@ -108,7 +90,8 @@ content:
           description: A free photo pack just for you. Every month.
           url: https://myphotopack.com/
         - name: Notaselfie
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
+          description: Photos that happen along the way. You can use the images anyway you
+            like. Have fun!
           url: http://notaselfie.com/
         - name: papers
           description: Wallpapers Every Hour!Hand collected :)
@@ -129,10 +112,12 @@ content:
           description: Beautiful, High-Resolution Free Stock Photos
           url: https://negativespace.co/
         - name: gratisography
-          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions.
+          description: Free high-resolution pictures you can use on your personal and
+            commercial projects, free of copyright restrictions.
           url: https://gratisography.com/
         - name: imcreator
-          description: A curated collection of free web design resources, all for commercial use.
+          description: A curated collection of free web design resources, all for
+            commercial use.
           url: http://imcreator.com/free
         - name: lifeofpix
           description: Free high resolution photography
