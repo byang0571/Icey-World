@@ -46,7 +46,7 @@ content:
         - name: Google(科学上网)
           description: 全球最大的UI学习分享平台
           url: https://www.google.com/
-     - name: 杂七杂八
+     - name: 在线工具
       sites:
         - name: 纪妖
           description: 收集中国古今妖怪
@@ -60,11 +60,32 @@ content:
         - name: RemoveBG
           description: 在线抠图平台-高清
           url: https://www.remove.bg/
+        - name: Magic-Eraser
+          description: 在线编辑图片平台
+          url: https://magicstudio.com/
+        - name: TinyPNG
+          description: 在线图片压缩平台
+          url: https://tinypng.com/
+        - name: Extractor Image
+          description: 一键下载网站图片
+          url: https://extract.pics/
+        - name: RoomGPT
+          description: 在线装修AI设计平台
+          url: https://www.roomgpt.io/
+        - name: Vega AI
+          description: 在线AI绘画平台
+          url: https://rightbrain.art/
+        - name: TinyWow
+          description: 在线格式转换平台
+          url: https://tinywow.com/
+        - name: 简视频
+          description: 一个网站搞定视频制作
+          url: https://www.aewz.com/
     - name: 界面灵感
       sites:
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
+        - name: 简视频
+          description: 一个网站搞定视频制作
+          url: https://www.aewz.com/
         - name: 字体仓库
           description: 最全的免费商用字体库
           url: https://www.ziticangku.com/
