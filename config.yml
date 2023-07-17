@@ -46,6 +46,20 @@ content:
         - name: Google(科学上网)
           description: 全球最大的UI学习分享平台
           url: https://www.google.com/
+     - name: 杂七杂八
+      sites:
+        - name: 纪妖
+          description: 收集中国古今妖怪
+          url: https://www.cbaigui.com/
+        - name: AirPano
+          description: 全景航拍图片和全景视频拍摄
+          url: http://cn.airpano.com/
+        - name: PixFix
+          description: 修复图片的神奇网站
+          url: https://zh.pixfix.com/
+        - name: RemoveBG
+          description: 在线抠图平台-高清
+          url: https://www.remove.bg/
     - name: 界面灵感
       sites:
         - name: 设计周刊
