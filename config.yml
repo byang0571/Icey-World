@@ -81,6 +81,9 @@ content:
         - name: 简视频
           description: 一个网站搞定视频制作
           url: https://www.aewz.com/
+        - name: YMAL
+          description: 在线验证YAML代码
+          url: https://www.yamllint.com/
     - name: 摄影图库
       sites:
         - name: Unsplash
