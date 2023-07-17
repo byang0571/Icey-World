@@ -46,6 +46,9 @@ content:
         - name: Google(科学上网)
           description: 全球最大的搜索平台
           url: https://www.google.com/
+        - name: Excalidraw
+          description: 流程图工具，可以画手写风格图表
+          url: https://excalidraw.com/
     - name: 在线工具
       sites:
         - name: 纪妖
@@ -84,3 +87,20 @@ content:
         - name: YMAL
           description: 在线验证YAML代码
           url: https://www.yamllint.com/
+    - name: 休闲游戏
+      sites:
+        - name: 小霸王
+          description: 在线小霸王游戏机，支持多人联机
+          url: https://www.yikm.net/
+        - name: 扫雷
+          description: 网页版扫雷，开箱即用
+          url: http://www.cctvjs.net/mine/
+        - name: 连连看
+          description: 网页版连连看，开箱即用
+          url: http://www.cctvjs.net/link/
+        - name: 俄罗斯方块
+          description: 网页版俄罗斯方块，开箱即用
+          url: http://www.cctvjs.net/tetris/
+        - name: 贪吃蛇
+          description: 网页版贪吃蛇，开箱即用
+          url: http://www.cctvjs.net/snake/
