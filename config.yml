@@ -1,20 +1,38 @@
----
+# title of website
 title: Icey's World
+
+# description of website
 description: byang0571's navigation site
-favicon: https://icey.live/favicon.png?size=40
+
+# favicon of website
+favicon: "https://icey.live/favicon.png?size=40"
+
+# your website url
 url: https://icey.live/
-github: https://github.com/byang0571
+
+# github profile url
+github: "https://github.com/byang0571"
+
+# footer message
 footer: © 2023-2023 @byang
+
+# template(theme) of your site, available:
+# 1. webstack (http://webstack.cc)
 template: webstack
+
+# Google analytics
 google_analytics: ""
+
 webstack:
   search:
     enabled: true
     default: baidu
+    # 可选的搜索引擎
     engines:
       - baidu
       - bilibili
       - zhihu
+
 content:
   categories:
     - name: 常用推荐
@@ -90,8 +108,7 @@ content:
           description: A free photo pack just for you. Every month.
           url: https://myphotopack.com/
         - name: Notaselfie
-          description: Photos that happen along the way. You can use the images anyway you
-            like. Have fun!
+          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
           url: http://notaselfie.com/
         - name: papers
           description: Wallpapers Every Hour!Hand collected :)
@@ -112,12 +129,10 @@ content:
           description: Beautiful, High-Resolution Free Stock Photos
           url: https://negativespace.co/
         - name: gratisography
-          description: Free high-resolution pictures you can use on your personal and
-            commercial projects, free of copyright restrictions.
+          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions.
           url: https://gratisography.com/
         - name: imcreator
-          description: A curated collection of free web design resources, all for
-            commercial use.
+          description: A curated collection of free web design resources, all for commercial use.
           url: http://imcreator.com/free
         - name: lifeofpix
           description: Free high resolution photography
