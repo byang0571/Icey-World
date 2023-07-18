@@ -49,6 +49,17 @@ content:
         - name: Excalidraw
           description: 流程图工具，可以画手写风格图表
           url: https://excalidraw.com/
+    - name: 好好学习
+      sites:
+        - name: TED
+          description: 值得传播的创意
+          url: https://www.ted.com/
+        - name: BBC Asia
+          description: 英国广播公司BBC
+          url: https://www.bbcasia.com/
+        - name: Elllo
+          description: 英语听力在线实验室
+          url: https://elllo.org/
     - name: 在线工具
       sites:
         - name: 纪妖
