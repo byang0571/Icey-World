@@ -65,9 +65,6 @@ content:
         - name: 纪妖
           description: 收集中国古今妖怪
           url: https://www.cbaigui.com/
-        - name: AirPano
-          description: 全景航拍图片和全景视频拍摄
-          url: http://cn.airpano.com/
         - name: PixFix
           description: 修复图片的神奇网站
           url: https://zh.pixfix.com/
