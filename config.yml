@@ -38,8 +38,14 @@ content:
     - name: 常用推荐
       sites:
         - name: 片库
-          description: 看视频的地方-你懂的
+          description: 主看片子的地方
           url: https://pian-ku.com/
+        - name: 海外影视
+          description: 备用看片子的地方一
+          url: https://hwaitv.com/
+        - name: BTNull
+          description: 备用看片子的地方二
+          url: https://www.btnull.to/
         - name: Youtube(科学上网)
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
@@ -54,9 +60,6 @@ content:
         - name: TED
           description: 值得传播的创意
           url: https://www.ted.com/
-        - name: BBC Asia
-          description: 英国广播公司BBC
-          url: https://www.bbcasia.com/
         - name: Elllo
           description: 英语听力在线实验室
           url: https://elllo.org/
